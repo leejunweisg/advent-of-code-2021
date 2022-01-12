@@ -1,3 +1,6 @@
+# day 2: dive!
+# https://adventofcode.com/2021/day/2
+
 def read_input():
     with open("input.txt") as fp:
         lines = fp.read().splitlines()

@@ -1,4 +1,5 @@
 # day 1: sonar sweep
+# https://adventofcode.com/2021/day/1
 
 def read_input():
     lines = []

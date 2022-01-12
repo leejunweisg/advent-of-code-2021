@@ -1,4 +1,5 @@
 # day 3: binary diagnostic
+# https://adventofcode.com/2021/day/3
 
 def read_input():
     lines = []
